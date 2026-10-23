@@ -24,3 +24,5 @@ added a banking system as a practice project that includes:
 -Checking the balance 
 -Depositing
 -Withdrawing 
+
+added a rock paper scissors game project
